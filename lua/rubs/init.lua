@@ -1,4 +1,4 @@
 require("rubs.remap")
-require("rubs.packer")
+require("rubs.lazy")
 require("rubs.set")
 
